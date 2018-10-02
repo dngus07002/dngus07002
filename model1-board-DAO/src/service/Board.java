@@ -11,11 +11,6 @@ public class Board {
 	private int boardImgSize;
 	private String boardfileName;
 	
-	
-	
-	
-	
-	
 	public int getBoardNo() {
 		return boardNo;
 	}
@@ -70,9 +65,4 @@ public class Board {
 	public void setBoardfileName(String boardfileName) {
 		this.boardfileName = boardfileName;
 	}
-	
-	
-	
-	
-	
 }
